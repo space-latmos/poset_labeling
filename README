@@ -1,0 +1,12 @@
+# poset_labeling
+
+This repo contains an implementation
+of a merge sort algorthm for partially
+ordered sets [Daskalakis2011].
+
+It is adapted to labeling sequences
+of 10-50 images (see in [lepetit2020]).
+
+The main program is /partialsorting_example/src/non_consecutive_labeling.py
+
+
